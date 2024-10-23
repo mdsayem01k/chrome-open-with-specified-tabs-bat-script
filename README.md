@@ -11,7 +11,6 @@ This repository contains a simple batch script that automates opening Google Chr
 Clone this repository or download the OpenChromeTabs.bat file.
 #### Step 2: Customize (Optional)
 If you'd like to customize the websites that open, edit the .bat file:
-
 ```
 @echo off
 start chrome "https://www.google.com" "https://www.github.com" "https://www.stackoverflow.com"
@@ -21,12 +20,6 @@ Replace the URLs with your own preferred websites.
 
 #### Step 3: Run the Script
 Simply double-click the OpenChromeTabs.bat file to execute it. Chrome will open with the websites you've specified.
-
-### Example
-The default script opens:
-<li>https://chatgpt.com/</li>
-<li>(https://github.com/)</li>
-
 
 
 
