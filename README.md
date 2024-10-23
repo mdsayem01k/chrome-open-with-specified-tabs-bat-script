@@ -19,14 +19,15 @@ exit
 ```
 Replace the URLs with your own preferred websites.
 
-Step 3: Run the Script
+#### Step 3: Run the Script
 Simply double-click the OpenChromeTabs.bat file to execute it. Chrome will open with the websites you've specified.
 
 ### Example
 The default script opens:
-Google
-GitHub
-Stack Overflow
+<li>https://chatgpt.com/</li>
+<li>(https://github.com/)</li>
+
+
 
 
 
